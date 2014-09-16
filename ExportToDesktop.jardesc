@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="c:/users/john/desktop/ChatServer.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ChatServer/ExportToDesktop.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/ChatServer/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/ChatProjCommon/ExportToExternalLibs.jardesc"/>
+        <file path="/ChatProjCommon/.project"/>
+        <file path="/ChatProjCommon/.classpath"/>
+        <javaElement handleIdentifier="=ChatServer"/>
+        <javaElement handleIdentifier="=ChatProjCommon/src"/>
+    </selectedElements>
+</jardesc>
